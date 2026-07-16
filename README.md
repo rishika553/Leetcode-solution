@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rishika553/Leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rishika553/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rishika553/Leetcode-solution/tree/master/0118-pascals-triangle) |
+| [1929-concatenation-of-array](https://github.com/rishika553/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rishika553/Leetcode-solution/tree/master/0118-pascals-triangle) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/rishika553/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
