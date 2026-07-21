@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishika553/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rishika553/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishika553/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/rishika553/Leetcode-solution/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rishika553/Leetcode-solution/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/rishika553/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rishika553/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rishika553/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rishika553/Leetcode-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
