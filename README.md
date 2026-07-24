@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rishika553/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishika553/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/rishika553/Leetcode-solution/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/rishika553/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rishika553/Leetcode-solution/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/rishika553/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Array
@@ -86,9 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishika553/Leetcode-solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rishika553/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rishika553/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rishika553/Leetcode-solution/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rishika553/Leetcode-solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
