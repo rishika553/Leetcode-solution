@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rishika553/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/rishika553/Leetcode-solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rishika553/Leetcode-solution/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/rishika553/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/rishika553/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/rishika553/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/rishika553/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rishika553/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishika553/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rishika553/Leetcode-solution/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rishika553/Leetcode-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rishika553/Leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
