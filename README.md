@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishika553/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishika553/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rishika553/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/rishika553/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishika553/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishika553/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rishika553/Leetcode-solution/tree/master/1470-shuffle-the-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishika553/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/rishika553/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishika553/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishika553/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/rishika553/Leetcode-solution/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishika553/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/rishika553/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishika553/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rishika553/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rishika553/Leetcode-solution/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/rishika553/Leetcode-solution/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
 | ------- |
