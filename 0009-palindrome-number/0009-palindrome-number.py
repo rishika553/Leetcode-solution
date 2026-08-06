@@ -4,14 +4,12 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-      
-        s=str(x)
+        a=x
+        result=0
+        while x>0:
+            ld=x%10
+            result=(result*10)+ld
+            x=x//10
 
-        for i in range(len(s)):
-            
-            if s[i]!=s[len(s)-i-1]:
-                return False
-
-        return True
-
-
+        return result==a
+        
