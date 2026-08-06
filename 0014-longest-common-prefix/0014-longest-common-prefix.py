@@ -4,13 +4,14 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
+        if len(strs)==0:
+            return ""
         result=""
-        for i in range(len(strs[0])):
-            for j in range(len(strs)):
-                if len(strs[j])<= i:
+
+        base=strs[0]
+        for i in range(0,len(base)):
+            for word in strs[1:]:
+                if i ==len(word) or word[i]!= base[i]:
                     return result
-                if strs[0][i]!=strs[j][i]:
-                    return  result
-                
-            result +=strs[j][i]
-        return result   
+            result+=base[i]
+        return result
